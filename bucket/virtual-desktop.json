@@ -5,7 +5,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/MScholtes/VirtualDesktop/releases/download/V1.13/VirtualDesktop.exe",
-            "hash": "095063f8aaa66f88b7700d4710938cb12595f3f37bb62341ea7a7517d7dfffe2"
+            "hash": "ed130dfed63bb8db12a3559236758cb5ba324b109f067d9fa88f31fd66a79652"
         }
     },
     "bin": "VirtualDesktop.exe"
