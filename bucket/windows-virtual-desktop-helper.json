@@ -3,7 +3,7 @@
     "description": "App to help manage Virtual Desktops for Windows 10 and Windows 11",
     "license": "AGPL3",
     "architecture": {
-        "32bit": {
+        "64bit": {
             "url": "https://github.com/dankrusi/WindowsVirtualDesktopHelper/releases/download/v1.10/WindowsVirtualDesktopHelper.Executable.v1.10.zip",
             "hash": "13539467bc65724c16252a46072d0ce3029fdfc290add5162a77aa98e66a0b55"
         }
