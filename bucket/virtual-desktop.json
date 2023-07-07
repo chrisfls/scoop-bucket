@@ -1,0 +1,12 @@
+{
+    "version": "1.13",
+    "description": "C# command line tool to manage virtual desktops in Windows 10",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/MScholtes/VirtualDesktop/releases/download/V1.13/VirtualDesktop.exe",
+            "hash": "095063f8aaa66f88b7700d4710938cb12595f3f37bb62341ea7a7517d7dfffe2"
+        }
+    },
+    "bin": "VirtualDesktop.exe"
+}
