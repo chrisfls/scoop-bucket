@@ -7,7 +7,7 @@
         "url": "https://github.com/braheezy/goqoa/blob/main/LICENSE"
     },
     "url": "https://github.com/braheezy/goqoa/releases/download/v2.0.0/goqoa.exe",
-    "hash": "5c4c8fa85f2bd404ff1cfe674570e9802733ae35cdd3150eb61c0e3c0d8e7bc4",
+    "hash": "7ffeec940985c0479e9268de5a8968264f70d899abd29fbeda14aa4d175ed5eb",
     "checkver": {
         "github": "https://github.com/braheezy/goqoa",
         "regex": "v([\\d.]+)"
